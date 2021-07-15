@@ -448,7 +448,7 @@ h4{
     color: white;
 }
 
-@media screen and (max-width: 864px) {
+@media screen and (max-width: 1200px) {
 
 
 body{
@@ -470,7 +470,7 @@ header{
 
 .container{
     max-width: 864px;
-    max-height: 2600px;
+    max-height: 1500px;
     padding: 0 0px;
     margin: 0 auto;
 
