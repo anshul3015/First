@@ -448,7 +448,7 @@ h4{
     color: white;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 864px) {
 
 
 body{
@@ -465,6 +465,7 @@ body{
 header{
     background: var(--dark);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 78% 96%, 0 100%);
+    max-width: 864px;
   
 }
 
